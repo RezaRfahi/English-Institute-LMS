@@ -13,8 +13,7 @@ The English Learning Institute Management System is a Python-based application d
 ## Installation
 1. Clone or download the repository from [GitHub](https://github.com/your-username/english-learning-management-system).
 2. Ensure you have Python installed on your system (version 3.6 or higher).
-3. Install the required dependencies by running `pip install -r requirements.txt`.
-4. Run the main script `main.py` to start the application.
+3. Run the main script `main.py` to start the application.
 
 ## Usage
 - Upon launching the application, you will be presented with a menu to select various options.
