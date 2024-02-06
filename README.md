@@ -22,8 +22,7 @@ The English Learning Institute Management System is a Python-based application d
 ## File Structure
 - `main.py`: Main script to run the English Learning Institute Management System.
 - `README.md`: Documentation file providing information about the project.
-- `students_info.txt`: Text file containing student information.
-- `grades_info.txt`: Text file containing student grades.
+- `students_info.txt`: Text file containing student information and grades.
 
 ## Contributing
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue on GitHub or submit a pull request.
